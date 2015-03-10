@@ -1,0 +1,18 @@
+{
+  "name": "generate-dummy-csv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "dependencies": {
+    "comma-separated-values": "^3.6.1",
+    "js-combinatorics": "^0.4.0",
+    "moment": "^2.9.0",
+    "sprintf": "^0.1.5",
+    "sprintf-js": "^1.0.2"
+  }
+}
