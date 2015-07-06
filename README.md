@@ -5,6 +5,6 @@
 ## 使い方
 
 1. `npm install`
-2. `node factors.js`
+2. `node index.js`
 
 factorsディレクトリ以下にダミーファイルが生成されます。

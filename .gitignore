@@ -41,3 +41,6 @@ Session.vim
 factors/
 tmp/
 data/
+
+.idea/
+*.iml
